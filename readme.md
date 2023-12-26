@@ -2,7 +2,7 @@
 
 _the following project is based on a [tutorial video by Fazt Code about how to make a REST API with JWT and roles (auth & autho) & Mongodb](https://www.youtube.com/watch?v=lV7mxivGX_I&t=1042s&ab_channel=FaztCode)_
 
-_the video is in spanish, notes writen by me are in english_
+_the video is in spanish, notes written by me are in english_
 
 **Keep in mind:** The project I've uploaded isn't 100% faithful to
 that uploaded by [Fazt Code](https://www.youtube.com/@FaztCode). 
