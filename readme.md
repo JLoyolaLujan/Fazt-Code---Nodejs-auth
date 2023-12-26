@@ -24,7 +24,7 @@ modules installed:
     * helmet ---> additional security characteristics (for example, so 
 the server does not give away that much information)
 
-inside src 
+inside src: 
     * libs ---> re-usable code
     * middlewares ---> express middleware  
     * models ---> data models
